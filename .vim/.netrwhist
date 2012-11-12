@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/pp'
+let g:netrw_dirhist_2='/home/pp/Projects/secretrev'
+let g:netrw_dirhist_3='/home/pp/Projects/secretrev/config'
+let g:netrw_dirhist_4='/home/pp/Projects/secretrev/spec'
+let g:netrw_dirhist_5='/home/pp/Projects/secretrev'
+let g:netrw_dirhist_6='/home/pp/Projects/secretrev/app'
+let g:netrw_dirhist_7='/home/pp/Projects/secretrev/app/models'
+let g:netrw_dirhist_8='/home/pp/Projects/secretrev'
+let g:netrw_dirhist_9='/home/pp'
